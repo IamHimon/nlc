@@ -1,0 +1,317 @@
+Creating 3 layers of 400 units.
+From D:\Users\humeng\PycharmProjects\nlc\nlc_model.py:127: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Created model with fresh parameters.
+From D:\Users\humeng\AppData\Local\Continuum\anaconda3\envs\tensorflow\lib\site-packages\tensorflow\python\util\tf_should_use.py:170: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Num params: 9032986
+Creating 3 layers of 400 units.
+From D:\Users\humeng\PycharmProjects\nlc\nlc_model.py:127: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Created model with fresh parameters.
+From D:\Users\humeng\AppData\Local\Continuum\anaconda3\envs\tensorflow\lib\site-packages\tensorflow\python\util\tf_should_use.py:170: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Num params: 9032986
+Creating 3 layers of 400 units.
+From D:\Users\humeng\PycharmProjects\nlc\nlc_model.py:127: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Created model with fresh parameters.
+From D:\Users\humeng\AppData\Local\Continuum\anaconda3\envs\tensorflow\lib\site-packages\tensorflow\python\util\tf_should_use.py:170: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Num params: 9032986
+Creating 3 layers of 400 units.
+From D:\Users\humeng\PycharmProjects\nlc\nlc_model.py:127: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Created model with fresh parameters.
+From D:\Users\humeng\AppData\Local\Continuum\anaconda3\envs\tensorflow\lib\site-packages\tensorflow\python\util\tf_should_use.py:170: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Num params: 9032986
+Creating 3 layers of 400 units.
+From D:\Users\humeng\PycharmProjects\nlc\nlc_model.py:127: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Created model with fresh parameters.
+From D:\Users\humeng\AppData\Local\Continuum\anaconda3\envs\tensorflow\lib\site-packages\tensorflow\python\util\tf_should_use.py:170: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Num params: 9032986
+Creating 3 layers of 400 units.
+From D:\Users\humeng\PycharmProjects\nlc\nlc_model.py:127: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Created model with fresh parameters.
+From D:\Users\humeng\AppData\Local\Continuum\anaconda3\envs\tensorflow\lib\site-packages\tensorflow\python\util\tf_should_use.py:170: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Num params: 9032986
+Creating 3 layers of 400 units.
+From D:\Users\humeng\PycharmProjects\nlc\nlc_model.py:127: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Created model with fresh parameters.
+From D:\Users\humeng\AppData\Local\Continuum\anaconda3\envs\tensorflow\lib\site-packages\tensorflow\python\util\tf_should_use.py:170: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Num params: 9032986
+Creating 3 layers of 400 units.
+From D:\Users\humeng\PycharmProjects\nlc\nlc_model.py:127: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Created model with fresh parameters.
+From D:\Users\humeng\AppData\Local\Continuum\anaconda3\envs\tensorflow\lib\site-packages\tensorflow\python\util\tf_should_use.py:170: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Num params: 9032986
+Creating 3 layers of 400 units.
+From D:\Users\humeng\PycharmProjects\nlc\nlc_model.py:127: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Created model with fresh parameters.
+From D:\Users\humeng\AppData\Local\Continuum\anaconda3\envs\tensorflow\lib\site-packages\tensorflow\python\util\tf_should_use.py:170: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Num params: 9032986
+Creating 3 layers of 400 units.
+From D:\Users\humeng\PycharmProjects\nlc\nlc_model.py:127: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Created model with fresh parameters.
+From D:\Users\humeng\AppData\Local\Continuum\anaconda3\envs\tensorflow\lib\site-packages\tensorflow\python\util\tf_should_use.py:170: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Num params: 9032986
+Creating 3 layers of 400 units.
+From D:\Users\humeng\PycharmProjects\nlc\nlc_model.py:127: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Created model with fresh parameters.
+From D:\Users\humeng\AppData\Local\Continuum\anaconda3\envs\tensorflow\lib\site-packages\tensorflow\python\util\tf_should_use.py:170: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Num params: 9032986
+Creating 3 layers of 400 units.
+From D:\Users\humeng\PycharmProjects\nlc\nlc_model.py:127: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Created model with fresh parameters.
+From D:\Users\humeng\AppData\Local\Continuum\anaconda3\envs\tensorflow\lib\site-packages\tensorflow\python\util\tf_should_use.py:170: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Num params: 9032986
+Creating 3 layers of 400 units.
+From D:\Users\humeng\PycharmProjects\nlc\nlc_model.py:127: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Created model with fresh parameters.
+From D:\Users\humeng\AppData\Local\Continuum\anaconda3\envs\tensorflow\lib\site-packages\tensorflow\python\util\tf_should_use.py:170: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Num params: 9032986
+Creating 3 layers of 400 units.
+From D:\Users\humeng\PycharmProjects\nlc\nlc_model.py:127: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Created model with fresh parameters.
+From D:\Users\humeng\AppData\Local\Continuum\anaconda3\envs\tensorflow\lib\site-packages\tensorflow\python\util\tf_should_use.py:170: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Num params: 9032986
+Creating 3 layers of 400 units.
+From D:\Users\humeng\PycharmProjects\nlc\nlc_model.py:127: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Created model with fresh parameters.
+From D:\Users\humeng\AppData\Local\Continuum\anaconda3\envs\tensorflow\lib\site-packages\tensorflow\python\util\tf_should_use.py:170: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Num params: 9032986
+Creating 3 layers of 400 units.
+From D:\Users\humeng\PycharmProjects\nlc\nlc_model.py:127: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Created model with fresh parameters.
+From D:\Users\humeng\AppData\Local\Continuum\anaconda3\envs\tensorflow\lib\site-packages\tensorflow\python\util\tf_should_use.py:170: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Num params: 9032986
+Initial validation cost: 8.239087
+epoch 1, iter 1, cost 7.931606, exp_cost 7.931606, grad norm 4.516611, param norm 113.949432, tps 730.080991, length mean/std 26.773438/0.675634
+epoch 1, iter 2, cost 7.687682, exp_cost 7.930234, grad norm 2.423105, param norm 113.950211, tps 753.276044, length mean/std 14.992188/0.423824
+epoch 1, iter 3, cost 7.634964, exp_cost 7.928705, grad norm 2.500698, param norm 113.953346, tps 784.625588, length mean/std 13.734375/0.441665
+epoch 1, iter 4, cost 7.759591, exp_cost 7.927579, grad norm 5.324714, param norm 113.958145, tps 804.626369, length mean/std 17.601562/0.489576
+epoch 1, iter 5, cost 7.570206, exp_cost 7.925869, grad norm 3.728143, param norm 113.964485, tps 812.745468, length mean/std 12.585938/0.492559
+epoch 1, iter 6, cost 7.699281, exp_cost 7.924458, grad norm 9.886686, param norm 113.972549, tps 817.584076, length mean/std 16.312500/0.463512
+epoch 1, iter 7, cost 7.743284, exp_cost 7.923061, grad norm 27.260927, param norm 113.982010, tps 821.865972, length mean/std 20.156250/0.474959
+epoch 1, iter 8, cost 7.433174, exp_cost 7.920973, grad norm 8.684520, param norm 113.993454, tps 820.022121, length mean/std 11.078125/0.632571
+epoch 1, iter 9, cost 7.522313, exp_cost 7.916518, grad norm 159.975143, param norm 114.007111, tps 804.858204, length mean/std 29.070312/0.840234
+epoch 1, iter 10, cost 7.147663, exp_cost 7.913976, grad norm 11.174839, param norm 114.022621, tps 803.770951, length mean/std 8.546875/1.230215
+epoch 1, iter 11, cost 6.810477, exp_cost 7.903453, grad norm 140.412476, param norm 114.040405, tps 803.971342, length mean/std 24.632812/0.597797
+epoch 1, iter 12, cost 6.478677, exp_cost 7.891562, grad norm 70.624786, param norm 114.060165, tps 807.682242, length mean/std 21.523438/0.499450
+Creating 3 layers of 400 units.
+From D:\Users\humeng\PycharmProjects\nlc\nlc_model.py:127: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Created model with fresh parameters.
+From D:\Users\humeng\AppData\Local\Continuum\anaconda3\envs\tensorflow\lib\site-packages\tensorflow\python\util\tf_should_use.py:170: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Num params: 9032986
+Initial validation cost: 8.238713
+epoch 1, iter 1, cost 7.584384, exp_cost 7.584384, grad norm 2.115863, param norm 113.957054, tps 753.709835, length mean/std 12.585938/0.492559
+epoch 1, iter 2, cost 7.989077, exp_cost 7.594977, grad norm 8.558870, param norm 113.958405, tps 725.673245, length mean/std 33.492188/1.891577
+epoch 1, iter 3, cost 7.867368, exp_cost 7.599796, grad norm 8.350431, param norm 113.961731, tps 738.811438, length mean/std 22.812500/0.446339
+epoch 1, iter 4, cost 7.929991, exp_cost 7.607147, grad norm 19.552555, param norm 113.967415, tps 742.551257, length mean/std 29.070312/0.840234
+epoch 1, iter 5, cost 7.660079, exp_cost 7.607754, grad norm 8.803179, param norm 113.975113, tps 747.884365, length mean/std 14.992188/0.423824
+epoch 1, iter 6, cost 7.813594, exp_cost 7.611925, grad norm 56.426311, param norm 113.984909, tps 748.771987, length mean/std 26.773438/0.675634
+epoch 1, iter 7, cost 7.682295, exp_cost 7.613226, grad norm 82.469666, param norm 113.996628, tps 749.467070, length mean/std 24.632812/0.597797
+epoch 1, iter 8, cost 7.465094, exp_cost 7.610997, grad norm 93.456406, param norm 114.010559, tps 755.818372, length mean/std 20.156250/0.474959
+epoch 1, iter 9, cost 7.255163, exp_cost 7.606673, grad norm 88.342896, param norm 114.026901, tps 760.628011, length mean/std 16.312500/0.463512
+epoch 1, iter 10, cost 6.665510, exp_cost 7.593553, grad norm 149.986725, param norm 114.045776, tps 759.974555, length mean/std 18.789062/0.407974
+epoch 1, iter 11, cost 6.815525, exp_cost 7.588602, grad norm 35.467110, param norm 114.067101, tps 760.414602, length mean/std 8.546875/1.230215
+epoch 1, iter 12, cost 15.132327, exp_cost 7.843160, grad norm 2616.619873, param norm 114.090904, tps 538.410428, length mean/std 46.429688/11.631506
+epoch 1, iter 13, cost 5.866331, exp_cost 7.827213, grad norm 38.796871, param norm 114.109413, tps 543.672124, length mean/std 11.078125/0.632571
+epoch 1, iter 14, cost 10.117263, exp_cost 7.862903, grad norm 783.826050, param norm 114.129990, tps 555.160525, length mean/std 21.523438/0.499450
+epoch 1, iter 15, cost 8.564872, exp_cost 7.871826, grad norm 452.033234, param norm 114.147476, tps 564.268180, length mean/std 17.601562/0.489576
+epoch 1, iter 16, cost 6.674620, exp_cost 7.859951, grad norm 182.371109, param norm 114.162277, tps 572.703945, length mean/std 13.734375/0.441665
+epoch 1, iter 17, cost 6.373981, exp_cost 7.853475, grad norm 22.047716, param norm 114.174217, tps 576.717181, length mean/std 6.000000/0.000000
+epoch 1, iter 18, cost 7.587376, exp_cost 7.850424, grad norm 230.245209, param norm 114.188957, tps 582.860754, length mean/std 15.812500/0.621867
+epoch 1, iter 19, cost 6.144344, exp_cost 7.839838, grad norm 26.708193, param norm 114.201233, tps 586.812676, length mean/std 8.523438/0.499450
+epoch 1, iter 20, cost 6.457411, exp_cost 7.828339, grad norm 55.813778, param norm 114.215363, tps 591.682174, length mean/std 11.406250/0.491132
+epoch 1, iter 21, cost 6.241130, exp_cost 7.821138, grad norm 23.389198, param norm 114.227676, tps 593.224285, length mean/std 6.187500/0.390312
+epoch 1, iter 22, cost 6.385794, exp_cost 7.806041, grad norm 83.464989, param norm 114.243408, tps 598.080095, length mean/std 14.351562/0.477458
+epoch 1, iter 23, cost 5.993918, exp_cost 7.792446, grad norm 19.017481, param norm 114.257515, tps 601.299526, length mean/std 10.210938/0.407974
+epoch 1, iter 24, cost 5.996110, exp_cost 7.782884, grad norm 29.300657, param norm 114.273987, tps 603.575847, length mean/std 7.210938/0.407974
+epoch 1, iter 25, cost 5.855438, exp_cost 7.772876, grad norm 29.885868, param norm 114.293526, tps 605.983277, length mean/std 7.000000/0.000000
+epoch 1, iter 26, cost 5.809225, exp_cost 7.761176, grad norm 24.136284, param norm 114.315918, tps 608.373602, length mean/std 8.000000/0.000000
+epoch 1, iter 27, cost 7.091644, exp_cost 7.749586, grad norm 564.548523, param norm 114.341072, tps 613.581179, length mean/std 23.414062/1.465901
+epoch 1, iter 28, cost 6.821986, exp_cost 7.735983, grad norm 390.219727, param norm 114.361908, tps 619.016129, length mean/std 19.929688/0.751910
+epoch 1, iter 29, cost 5.764952, exp_cost 7.717289, grad norm 91.770164, param norm 114.380692, tps 623.206370, length mean/std 12.882812/0.539402
+Creating 3 layers of 400 units.
+From D:\Users\humeng\PycharmProjects\nlc\nlc_model.py:127: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Created model with fresh parameters.
+From D:\Users\humeng\AppData\Local\Continuum\anaconda3\envs\tensorflow\lib\site-packages\tensorflow\python\util\tf_should_use.py:170: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Num params: 9032986
+Initial validation cost: 8.239116
+epoch 1, iter 1, cost 7.495426, exp_cost 7.495426, grad norm 1.902945, param norm 113.970131, tps 680.612764, length mean/std 11.078125/0.632571
+epoch 1, iter 2, cost 7.582005, exp_cost 7.496409, grad norm 2.355186, param norm 113.970985, tps 774.129422, length mean/std 12.585938/0.492559
+epoch 1, iter 3, cost 7.923328, exp_cost 7.506569, grad norm 9.084640, param norm 113.974083, tps 778.801769, length mean/std 26.773438/0.675634
+epoch 1, iter 4, cost 7.627051, exp_cost 7.508036, grad norm 4.337640, param norm 113.978416, tps 802.928957, length mean/std 13.734375/0.441665
+epoch 1, iter 5, cost 7.708038, exp_cost 7.510917, grad norm 8.854634, param norm 113.984756, tps 813.067569, length mean/std 16.312500/0.463512
+epoch 1, iter 6, cost 7.884462, exp_cost 7.520358, grad norm 41.096680, param norm 113.993172, tps 798.053046, length mean/std 29.070312/0.840234
+epoch 1, iter 7, cost 7.607646, exp_cost 7.521492, grad norm 18.116570, param norm 114.003525, tps 799.739693, length mean/std 14.992188/0.423824
+epoch 1, iter 8, cost 7.578001, exp_cost 7.522349, grad norm 45.297787, param norm 114.016220, tps 809.908806, length mean/std 17.601562/0.489576
+epoch 1, iter 9, cost 7.398470, exp_cost 7.517535, grad norm 206.493835, param norm 114.031303, tps 500.937672, length mean/std 46.429688/11.631506
+epoch 1, iter 10, cost 6.949888, exp_cost 7.506793, grad norm 173.385635, param norm 114.047798, tps 519.742351, length mean/std 22.812500/0.446339
+epoch 1, iter 11, cost 6.814962, exp_cost 7.492803, grad norm 293.905304, param norm 114.066734, tps 539.181701, length mean/std 24.632812/0.597797
+epoch 1, iter 12, cost 6.360577, exp_cost 7.475432, grad norm 42.357388, param norm 114.081337, tps 551.758481, length mean/std 18.789062/0.407974
+epoch 1, iter 13, cost 6.657344, exp_cost 7.461163, grad norm 345.607849, param norm 114.097443, tps 563.694325, length mean/std 21.523438/0.499450
+epoch 1, iter 14, cost 6.620235, exp_cost 7.455321, grad norm 41.321735, param norm 114.109985, tps 568.452614, length mean/std 8.546875/1.230215
+epoch 1, iter 15, cost 9.360091, exp_cost 7.506300, grad norm 1087.475586, param norm 114.125359, tps 581.352037, length mean/std 33.492188/1.891577
+epoch 1, iter 16, cost 6.534698, exp_cost 7.490746, grad norm 277.652832, param norm 114.137413, tps 591.200091, length mean/std 20.156250/0.474959
+epoch 1, iter 17, cost 7.273259, exp_cost 7.486735, grad norm 402.306854, param norm 114.147141, tps 598.833673, length mean/std 23.414062/1.465901
+epoch 1, iter 18, cost 6.800314, exp_cost 7.482821, grad norm 17.684483, param norm 114.154999, tps 600.539988, length mean/std 7.210938/0.407974
+epoch 1, iter 19, cost 6.350796, exp_cost 7.471288, grad norm 55.743797, param norm 114.166138, tps 605.609686, length mean/std 12.882812/0.539402
+epoch 1, iter 20, cost 6.688797, exp_cost 7.467440, grad norm 12.677741, param norm 114.180092, tps 606.960834, length mean/std 6.187500/0.390312
+epoch 1, iter 21, cost 6.359570, exp_cost 7.449993, grad norm 83.397881, param norm 114.196503, tps 613.745979, length mean/std 19.929688/0.751910
+epoch 1, iter 22, cost 6.021211, exp_cost 7.430197, grad norm 34.469410, param norm 114.211586, tps 618.606000, length mean/std 17.601562/0.590813
+epoch 1, iter 23, cost 5.971075, exp_cost 7.412080, grad norm 27.915607, param norm 114.227577, tps 623.888514, length mean/std 15.812500/0.621867
+epoch 1, iter 24, cost 6.251853, exp_cost 7.402760, grad norm 45.730724, param norm 114.245903, tps 626.468706, length mean/std 10.210938/0.407974
+epoch 1, iter 25, cost 6.359868, exp_cost 7.396990, grad norm 28.334625, param norm 114.267151, tps 628.635700, length mean/std 7.000000/0.000000
+Creating 3 layers of 400 units.
+From D:\Users\humeng\PycharmProjects\nlc\nlc_model.py:127: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Created model with fresh parameters.
+From D:\Users\humeng\AppData\Local\Continuum\anaconda3\envs\tensorflow\lib\site-packages\tensorflow\python\util\tf_should_use.py:170: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Num params: 9032986
+Initial validation cost: 8.238991
+epoch 1, iter 1, cost 7.800767, exp_cost 7.800767, grad norm 3.155221, param norm 113.959267, tps 686.554378, length mean/std 18.789062/0.407974
+Creating 3 layers of 400 units.
+From D:\Users\humeng\PycharmProjects\nlc\nlc_model.py:127: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Created model with fresh parameters.
+From D:\Users\humeng\AppData\Local\Continuum\anaconda3\envs\tensorflow\lib\site-packages\tensorflow\python\util\tf_should_use.py:170: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Num params: 9032986
+Initial validation cost: 8.239089
+epoch 1, iter 1, cost 7.856407, exp_cost 7.856407, grad norm 4.062840, param norm 113.943489, tps 788.494572, length mean/std 21.523438/0.499450
+epoch 1, iter 2, cost 7.827312, exp_cost 7.856134, grad norm 3.988816, param norm 113.944618, tps 809.437131, length mean/std 20.156250/0.474959
+Creating 3 layers of 400 units.
+From D:\Users\humeng\PycharmProjects\nlc\nlc_model.py:127: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Created model with fresh parameters.
+From D:\Users\humeng\AppData\Local\Continuum\anaconda3\envs\tensorflow\lib\site-packages\tensorflow\python\util\tf_should_use.py:170: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Num params: 9032986
+Initial validation cost: 8.239240
+epoch 1, iter 1, cost 7.904954, exp_cost 7.904954, grad norm 4.702659, param norm 113.943520, tps 770.716236, length mean/std 24.632812/0.597797
+epoch 1, iter 2, cost 7.493473, exp_cost 7.903093, grad norm 2.075341, param norm 113.944496, tps 782.035924, length mean/std 11.078125/0.632571
+Creating 3 layers of 400 units.
+From D:\Users\humeng\PycharmProjects\nlc\nlc_model.py:127: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Created model with fresh parameters.
+From D:\Users\humeng\AppData\Local\Continuum\anaconda3\envs\tensorflow\lib\site-packages\tensorflow\python\util\tf_should_use.py:170: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Num params: 9032986
+Initial validation cost: 8.238993
+epoch 1, iter 1, cost 7.589440, exp_cost 7.589440, grad norm 2.077439, param norm 113.946724, tps 802.531604, length mean/std 12.680000/0.466476
+Creating 3 layers of 400 units.
+From D:\Users\humeng\PycharmProjects\nlc\nlc_model.py:127: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Created model with fresh parameters.
+From D:\Users\humeng\AppData\Local\Continuum\anaconda3\envs\tensorflow\lib\site-packages\tensorflow\python\util\tf_should_use.py:170: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Num params: 9032986
+Initial validation cost: 8.238944
+Creating 3 layers of 400 units.
+From D:\Users\humeng\PycharmProjects\nlc\nlc_model.py:127: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Created model with fresh parameters.
+From D:\Users\humeng\AppData\Local\Continuum\anaconda3\envs\tensorflow\lib\site-packages\tensorflow\python\util\tf_should_use.py:170: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Num params: 9032986
+Initial validation cost: 8.239055
+Creating 3 layers of 400 units.
+From D:\Users\humeng\PycharmProjects\nlc\nlc_model.py:127: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Created model with fresh parameters.
+From D:\Users\humeng\AppData\Local\Continuum\anaconda3\envs\tensorflow\lib\site-packages\tensorflow\python\util\tf_should_use.py:170: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Num params: 9032986
+Initial validation cost: 8.239052
+Creating 3 layers of 400 units.
+From D:\Users\humeng\PycharmProjects\nlc\nlc_model.py:127: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Created model with fresh parameters.
+From D:\Users\humeng\AppData\Local\Continuum\anaconda3\envs\tensorflow\lib\site-packages\tensorflow\python\util\tf_should_use.py:170: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Num params: 9032986
+Initial validation cost: 8.238915

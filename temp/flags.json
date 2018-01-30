@@ -1,0 +1,1 @@
+{"learning_rate": 0.0003, "learning_rate_decay_factor": 0.95, "max_gradient_norm": 10.0, "dropout": 0.15, "batch_size": 128, "epochs": 2, "size": 400, "num_layers": 3, "max_vocab_size": 40000, "max_seq_len": 150, "data_dir": "temp", "train_dir": "temp", "tokenizer": "CHAR", "optimizer": "adam", "print_every": 1}
